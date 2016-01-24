@@ -1,3 +1,5 @@
+#Soumyargha Sinha
+#https://www.quora.com/profile/Soumyargha-Sam-Sinha
 from bs4 import BeautifulSoup
 import os
 import urllib2
